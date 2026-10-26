@@ -4,11 +4,11 @@ An interactive Microsoft Power BI project exploring sales performance, product p
 
 ## Dashboard preview
 
-The final dashboard screenshot is available in the LinkedIn post and in the project files shared with this repository. To display it inline here, upload the image file as `images/dashboard-preview.png` using GitHub's web interface.
+![Cookie Industries Power BI dashboard](https://github.com/AyushJagtap03/Cookie-Industries-Sales-Profitability-Dashboard-Power-BI-AI-Assisted-Analytics/blob/main/dashboard-preview.jpg?raw=true)
 
 ## Project at a glance
 
-- **Project type:** Business Intelligence & sales/profitability analysis
+- **Project type:** Business Intelligence and sales/profitability analysis
 - **Dataset:** 700 sales records
 - **Primary tool:** Microsoft Power BI
 - **Supporting tools:** Power Query, DAX, ChatGPT (AI-assisted development)
@@ -17,53 +17,40 @@ The final dashboard screenshot is available in the LinkedIn post and in the proj
 ## Business questions explored
 
 - How are gross sales, units sold, transaction count, and profit margin performing?
-- Which products contribute most to sales and profitability?
-- How does sales activity change month to month and across days of the week?
+- Which products lead by sales and profitability?
+- How does performance change month to month and across days of the week?
 - How does performance vary by country and region?
 
 ## Dashboard features
 
 - KPI cards for gross sales, units sold, sales records, average sales per record, and net profit margin
-- Product-level sales and profitability comparison
+- Supporting indicators for total net profit and best-selling product
+- Product-level sales and profitability comparisons
 - Monthly sales and units-sold trends
 - Sales by day of the week
 - Country and regional visualisations
 - Interactive slicers for month, year, country, region, and product
-- A top-selling product indicator and total net profit card
 
-## Tools and workflow
+## Tools and AI-assisted workflow
 
-| Tool | Use |
+| Tool | Role in the project |
 |---|---|
 | Power BI | Dashboard design and interactive reporting |
 | Power Query | Data preparation and shaping |
-| DAX | Measures and calculated analytical logic |
-| ChatGPT | AI-assisted troubleshooting, analytical problem-solving, and iterative dashboard refinement |
+| DAX | Measures and calculations |
+| ChatGPT | AI-assisted troubleshooting, analytical problem-solving, DAX support, and iterative dashboard refinement |
 
-AI tools supported the development process; the analysis, visual choices, and final report were reviewed as part of the project workflow. This project does not claim to contain a deployed AI model or autonomous AI automation.
+AI tools supported the development process. The project does **not** claim to include a deployed AI model or autonomous AI automation.
 
-## Key analytical outputs
+## How to view the report
 
-The report brings sales, units sold, profitability, product performance, and geographic patterns into one interactive view. Users can filter by available dimensions to explore the data in context.
+1. Download the `Cookie_Industries_Sales_Profitability_Dashboard.pbix` file from this repository.
+2. Open it using Microsoft Power BI Desktop.
+3. Use the slicers to explore sales and profitability by month, year, country, region, and product.
 
-> Values and conclusions should be interpreted using the filters selected in the report. Currency and units follow the source dataset and Power BI formatting.
+## Project documentation
 
-## Repository contents
-
-- `PROJECT_DETAILS.md` — report context, features, tools, and usage notes
-- `Cookie Industry BI Dashboard(2).pbix` — add the final Power BI report file to the repository root to enable direct download
-- `images/dashboard-preview.png` — add the dashboard screenshot to show it inline
-
-## How to view
-
-1. Upload the original final `.pbix` report to this repository.
-2. Download the `.pbix` file from GitHub.
-3. Open it using Microsoft Power BI Desktop.
-4. Use the slicers to explore sales and profitability by month, year, country, region, and product.
-
-## Project context
-
-Created as a portfolio project to demonstrate skills in financial and business analysis, data visualisation, KPI reporting, and practical use of AI-assisted workflows.
+See [PROJECT_DETAILS.md](PROJECT_DETAILS.md) for the project objective, report components, tools, and usage notes.
 
 ## Author
 
@@ -74,4 +61,4 @@ AI-Integrated Finance | Financial Analysis & Reporting | Business Intelligence
 
 ## Notes
 
-Only share source data that you are authorised to publish. Confirm currency and unit formatting from the source dataset before interpreting values externally.
+Metrics depend on the selected report filters. Currency and units follow the source dataset and report formatting. Only publish source data that you are authorised to share.
