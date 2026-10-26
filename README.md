@@ -2,7 +2,9 @@
 
 An interactive Microsoft Power BI project exploring sales performance, product profitability, and regional trends across **700 sales transaction records**. The project combines business analysis and BI development with an **AI-assisted workflow** for problem-solving and iterative dashboard refinement.
 
-![Cookie Industries dashboard preview](images/dashboard-preview.png)
+## Dashboard preview
+
+The final dashboard screenshot is available in the LinkedIn post and in the project files shared with this repository. To display it inline here, upload the image file as `images/dashboard-preview.png` using GitHub's web interface.
 
 ## Project at a glance
 
@@ -48,14 +50,16 @@ The report brings sales, units sold, profitability, product performance, and geo
 
 ## Repository contents
 
-- `Cookie Industry BI Dashboard(2).pbix` — Power BI report file (to be added)
-- `images/dashboard-preview.png` — dashboard screenshot (to be added)
+- `PROJECT_DETAILS.md` — report context, features, tools, and usage notes
+- `Cookie Industry BI Dashboard(2).pbix` — add the final Power BI report file to the repository root to enable direct download
+- `images/dashboard-preview.png` — add the dashboard screenshot to show it inline
 
 ## How to view
 
-1. Download the `.pbix` report file from this repository once it has been uploaded.
-2. Open it using Microsoft Power BI Desktop.
-3. Use the slicers to explore sales and profitability by month, year, country, region, and product.
+1. Upload the original final `.pbix` report to this repository.
+2. Download the `.pbix` file from GitHub.
+3. Open it using Microsoft Power BI Desktop.
+4. Use the slicers to explore sales and profitability by month, year, country, region, and product.
 
 ## Project context
 
@@ -67,8 +71,7 @@ Created as a portfolio project to demonstrate skills in financial and business a
 AI-Integrated Finance | Financial Analysis & Reporting | Business Intelligence
 
 - GitHub: [AyushJagtap03](https://github.com/AyushJagtap03)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/)
 
 ## Notes
 
-The Power BI file and dashboard preview must be uploaded to this repository for the download and image links above to work. Do not commit confidential source data or credentials.
+Only share source data that you are authorised to publish. Confirm currency and unit formatting from the source dataset before interpreting values externally.
