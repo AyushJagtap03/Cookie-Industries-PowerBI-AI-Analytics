@@ -1,0 +1,2 @@
+# Cookie-Industries-Sales-Profitability-Dashboard-Power-BI-AI-Assisted-Analytics
+Developed an interactive Power BI dashboard analysing 700 sales transactions to track KPIs, product profitability, sales trends, and regional performance. Used Power Query, DAX, and ChatGPT-assisted workflows for data analysis, problem-solving, and dashboard refinement, combining financial analysis, business intelligence, and AI integration.
